@@ -89,7 +89,7 @@ This project is a graphical implementation of the popular card game **Blackjack*
 
 
 ### In-Game Screen
-![In-Game Screen](|./Screen Cap 0145 2025-01-01.jpg)
+![In-Game Screen](images/BlackJack_image.jpg)
 
 
 ---
